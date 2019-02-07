@@ -1,3 +1,3 @@
 # sysnippets
 
-a collection of snippets, recipes, guides, and know how for system administration
+a collection of sys admin know how
