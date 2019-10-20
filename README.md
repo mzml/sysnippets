@@ -1,3 +1,3 @@
 # sysnippets
 
-a collection of sys admin know how
+collection of files to run my sys
