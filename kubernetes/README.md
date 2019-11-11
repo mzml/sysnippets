@@ -23,3 +23,5 @@ Worker Node
 - Container engine
 
 ## Getting started
+
+### System Requirements
