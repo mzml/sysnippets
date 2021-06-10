@@ -1,3 +1,3 @@
 # Sysnippets
 
-A collection of know-how and tools used in my development machine and building for the web.
+A collection of tools and techniques I use in my development environment.
